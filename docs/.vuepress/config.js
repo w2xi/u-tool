@@ -16,7 +16,7 @@ module.exports = {
       },
     ],
     nav: [
-      { text: 'Github', link: 'https://github.com/w2xi/utool' },
+      { text: 'Github', link: 'https://github.com/w2xi/u-tool' },
     ]
   }
 }
