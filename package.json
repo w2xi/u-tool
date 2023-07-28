@@ -5,6 +5,7 @@
   "main": "dist/umd/index.js",
   "module": "dist/esm/index.js",
   "license": "MIT",
+  "homepage": "https://w2xi.github.io/u-tool",
   "scripts": {
     "build": "run-p \"build:*\"",
     "build:esm": "rollup -c rollup.esm.config.js",
