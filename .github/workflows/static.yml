@@ -31,6 +31,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      # 设定 node 环境
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 14
       - name: Build
         run: yarn install && yarn deploy
       - name: Setup Pages
