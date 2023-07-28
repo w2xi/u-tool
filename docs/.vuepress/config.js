@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'U Tool',
+  title: 'UTool',
   description: '常用的工具函数集合',
   base: '/u-tool/',
   head: [
