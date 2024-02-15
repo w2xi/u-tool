@@ -1,7 +1,7 @@
 {
   "name": "u-tools",
   "version": "1.0.0",
-  "description": "A tool to convert list to tree or reverse.",
+  "description": "Your tools that include a variety functions.",
   "author": "w2xi",
   "repository": {
     "type": "git",

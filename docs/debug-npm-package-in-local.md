@@ -32,7 +32,7 @@ npm unlink <package-name>
 npm ls -g --depth=0
 
 # 查看本地链接的 npm 包
-npm ls -g --depth=0
+npm ls --depth=0
 ```
 
 ## 参考
